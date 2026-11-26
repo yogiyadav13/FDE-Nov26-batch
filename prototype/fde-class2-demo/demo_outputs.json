@@ -1,0 +1,24 @@
+{
+  "_label": "SYNTHETIC PRERECORDED DEMO OUTPUT. Written by hand for the classroom; not produced by a model. No model API was called.",
+  "synthetic": true,
+  "results": {
+    "C1": {
+      "draft_reply": "Thank you for letting us know about the broken zip on your jacket (order MR-1042). Because you reported the damage within two days of delivery, we have referred your case to our team for a return review. This is not a refund approval yet; a team member will follow up with next steps.",
+      "evidence_refs": ["P1"],
+      "missing_information": [],
+      "review_status": "READY_FOR_HUMAN_REVIEW"
+    },
+    "C2": {
+      "draft_reply": "Thank you for reporting the broken zip on your jacket (order MR-1088). So we can check whether your return can be referred for review, could you please tell us the date your order was delivered?",
+      "evidence_refs": ["P2"],
+      "missing_information": ["delivery_date"],
+      "review_status": "NEEDS_INFORMATION"
+    },
+    "C3": {
+      "draft_reply": "Thank you for your message about order MR-1126. Your replacement request is still under review, so we are not able to confirm that the issue is resolved yet. We will update you once the review is complete.",
+      "evidence_refs": ["P3"],
+      "missing_information": [],
+      "review_status": "READY_FOR_HUMAN_REVIEW"
+    }
+  }
+}

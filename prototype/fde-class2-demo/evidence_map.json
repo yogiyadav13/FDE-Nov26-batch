@@ -1,0 +1,32 @@
+{
+  "C1": {
+    "case_id": "support_queue:C1",
+    "order_id": "order_record:MR-1042",
+    "product": "order_record:MR-1042",
+    "customer_question": "support_queue:C1",
+    "delivery_date": "order_record:MR-1042",
+    "issue_status": "issue_record:C1",
+    "issue_details": "issue_record:C1",
+    "policy_version": "policy_register:CLASSROOM-1"
+  },
+  "C2": {
+    "case_id": "support_queue:C2",
+    "order_id": "order_record:MR-1088",
+    "product": "order_record:MR-1088",
+    "customer_question": "support_queue:C2",
+    "delivery_date": "order_record:MR-1088",
+    "issue_status": "issue_record:C2",
+    "issue_details": "issue_record:C2",
+    "policy_version": "policy_register:CLASSROOM-1"
+  },
+  "C3": {
+    "case_id": "support_queue:C3",
+    "order_id": "order_record:MR-1126",
+    "product": "order_record:MR-1126",
+    "customer_question": "support_queue:C3",
+    "delivery_date": "order_record:MR-1126",
+    "issue_status": "issue_record:C3",
+    "issue_details": "issue_record:C3",
+    "policy_version": "policy_register:CLASSROOM-1"
+  }
+}
